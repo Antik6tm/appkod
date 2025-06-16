@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeMotard</string>
+    <string name="question_image_desc">Illustration de la question</string>
+    <string name="valider">Valider</string>
+    <string name="explication">Explication</string>
+    <string name="chargement">Chargement...</string>
+    <string name="question_suivante">Question suivante</string>
+</resources>
